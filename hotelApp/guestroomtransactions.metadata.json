@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"f766492b7cfd45b8aa49d7be39dd60da","collectionName":"guestroomtransactions","type":"collection"}
